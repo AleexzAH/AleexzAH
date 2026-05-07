@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AleexzAH&hide=contribs,prs" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AleexzAH&hide_progress=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AleexzAH&compact" />
 </div>
 
 <div style="display: flex; grid-template-columns: repeat(5, 1fr);"><br>
