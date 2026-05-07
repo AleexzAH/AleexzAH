@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AleexzAH&hide=contribs,prs" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AleexzAH&compact=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AleexzAH&layout=true" />
 </div>
 
 ##
