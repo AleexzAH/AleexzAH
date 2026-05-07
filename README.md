@@ -2,6 +2,7 @@
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AleexzAH&show_icons=true&theme=vue-dark&language=pt-br">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexzAH&layout=compact&theme=vue-dark">
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AleexzAH&hide=contribs,prs)
 </div>
 
 <div style="display: flex; grid-template-columns: repeat(5, 1fr);"><br>
